@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/env python3
 
 # https://developer.apple.com/library/archive/technotes/tn2450/_index.html
